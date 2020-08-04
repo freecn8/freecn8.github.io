@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://freecn8.cn/p/c09628fd.html</loc>
+    
+    <lastmod>2020-08-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://freecn8.cn/p/4b6376dc.html</loc>
     
     <lastmod>2020-08-04</lastmod>
@@ -109,7 +116,35 @@
 
   
   <url>
-    <loc>https://freecn8.cn/tags/%E4%BF%AE%E5%A4%8D%E5%9B%BE%E7%89%87/</loc>
+    <loc>https://freecn8.cn/tags/%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2020-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/php%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2020-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD/</loc>
+    <lastmod>2020-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%85%8D%E8%B4%B9%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2020-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%95%86%E4%B8%9A%E6%BA%90%E7%A0%81/</loc>
     <lastmod>2020-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -117,6 +152,13 @@
   
   <url>
     <loc>https://freecn8.cn/tags/%E4%B8%83%E7%8C%AB%E5%85%8D%E8%B4%B9%E9%98%85%E8%AF%BB%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD/</loc>
+    <lastmod>2020-08-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E4%BF%AE%E5%A4%8D%E5%9B%BE%E7%89%87/</loc>
     <lastmod>2020-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -258,7 +300,7 @@
 
   
   <url>
-    <loc>https://freecn8.cn/categories/Windows/</loc>
+    <loc>https://freecn8.cn/categories/%E6%95%99%E7%A8%8B%E7%A6%8F%E5%88%A9/</loc>
     <lastmod>2020-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -272,7 +314,7 @@
   </url>
   
   <url>
-    <loc>https://freecn8.cn/categories/%E6%95%99%E7%A8%8B%E7%A6%8F%E5%88%A9/</loc>
+    <loc>https://freecn8.cn/categories/Windows/</loc>
     <lastmod>2020-08-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
