@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://freecn8.cn/p/a2fbf516.html</loc>
+    
+    <lastmod>2020-08-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://freecn8.cn/p/e4309537.html</loc>
     
     <lastmod>2020-08-06</lastmod>
@@ -551,6 +558,20 @@
   
   <url>
     <loc>https://freecn8.cn/tags/%E4%B8%8B%E8%BD%BD%E8%BF%85%E9%9B%B7/</loc>
+    <lastmod>2020-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E7%A8%BB%E5%A3%B3%E4%BC%9A%E5%91%98/</loc>
+    <lastmod>2020-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/wps%E7%A8%BB%E5%A3%B3%E4%BC%9A%E5%91%98/</loc>
     <lastmod>2020-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
