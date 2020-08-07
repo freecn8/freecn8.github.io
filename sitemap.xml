@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://freecn8.cn/p/a2fbf516.html</loc>
+    <loc>https://freecn8.cn/p/3cccddba.html</loc>
     
-    <lastmod>2020-08-06</lastmod>
+    <lastmod>2020-08-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/p/c24aa0c0.html</loc>
+    
+    <lastmod>2020-08-07</lastmod>
     
   </url>
   
@@ -208,20 +215,6 @@
   
   <url>
     <loc>https://freecn8.cn/tags/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E7%A8%BB%E5%A3%B3%E4%BC%9A%E5%91%98/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/wps%E7%A8%BB%E5%A3%B3%E4%BC%9A%E5%91%98/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -572,6 +565,34 @@
   
   <url>
     <loc>https://freecn8.cn/tags/%E5%88%9B%E6%96%B0%E5%B7%A5%E4%BD%9C%E6%96%B9%E6%B3%95/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/win10%E6%BF%80%E6%B4%BB%E5%AF%86%E9%92%A5/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/win10%E4%B8%93%E4%B8%9A%E7%89%88%E5%AF%86%E9%92%A5/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/win10-%E6%BF%80%E6%B4%BB/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/win10%E6%BF%80%E6%B4%BB%E7%A0%81/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
