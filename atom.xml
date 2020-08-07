@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://freecn8.cn/"/>
-  <updated>2020-08-07T03:11:56.143Z</updated>
+  <updated>2020-08-07T05:48:36.163Z</updated>
   <id>https://freecn8.cn/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[企动协会3.1.7]功能模块+开源代码修复版+协会内部办公管理系统+协会商城系统+协会微信公众号功能模块</title>
+    <link href="https://freecn8.cn/p/61e7f14.html"/>
+    <id>https://freecn8.cn/p/61e7f14.html</id>
+    <published>2020-08-07T05:34:00.000Z</published>
+    <updated>2020-08-07T05:48:36.163Z</updated>
+    
+    <content type="html"><![CDATA[<p>源代码大小：8.1MB</p><p>程序语言：PHP+Mysql</p><p>服务器系统：Windows，Linux</p><p>安装详细说明：</p><p>根据内部管理系统帮助协会达到内部办公、流程审批、客户管理等工作任务，达到协会对会员企业的服务需求;而外部业务协作系统则是架设了协会业务沟通及会员学习交流的服务平台，协会及会员均可发布日常动态或者信息内容，能够更好地展现企业，需求合作，还提供各类互动交流功能模块，帮协会创建一个更活跃更有使用价值的会员沟通交流圈。</p><p>核心功能：</p><p>协会会员系统、会员企业仓库、资源供求系统、协会资讯管理</p><p>协会商城系统、协会活动管理、课程视频系统、兑换积分系统</p><p>源代码版本更新：</p><p>企动协会3.1.7开源代码–普通版微信公众号</p><p>1、【修复】活动报名付款出现异常问题</p><p>2、【修复】活动自定义报名登记表单显示信息问题</p><p>3、【修复】会员审核中，各个功能模块的可见不可见权限问题</p><p>测试截图：<br><img src="https://s1.ax1x.com/2020/08/07/aW7fYV.png"></p><p><a href="https://590m.com/file/1067823-456368254" target="_blank" rel="noopener external nofollow noreferrer">立即下载</a></p>]]></content>
+    
+    <summary type="html">
+    
+      源代码大小：8.1MB 程序语言：PHP+Mysql 服务器系统：Windows，Linux 安装详细说明：
+根据内部管理系统帮助协会达到内部办公、流程审批、客户管理等工作任务，达到协会对会员企业的服务需求;而外部业务协作系统则是架设了协会业务沟通及会员学习交流的服务平台，协会及会员均可发布日常动态或者信息内容，能够更好地展现企业，需求合作，还提供各类互动交流功能模块，帮协会创建一个更活跃更有使用价值的会员沟通交流圈。
+核心功能： 协会会员系统、会员企业仓库、资源供求系统、协会资讯管理 协会商城系统、协会活动管理、课程视频系统、兑换积分系统 源代码版本更新： 企动协会3.1.
+    
+    </summary>
+    
+    
+      <category term="教程福利" scheme="https://freecn8.cn/categories/%E6%95%99%E7%A8%8B%E7%A6%8F%E5%88%A9/"/>
+    
+    
+      <category term="微信 小程序" scheme="https://freecn8.cn/tags/%E5%BE%AE%E4%BF%A1-%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="免费小程序" scheme="https://freecn8.cn/tags/%E5%85%8D%E8%B4%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+      <category term="微信公众平台小程序" scheme="https://freecn8.cn/tags/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%B9%B3%E5%8F%B0%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>狮子鱼独立版13.6.1功能模块+社区团购小程序+含有无直播2个前端+支持多联打印+已支持会员分销模式</title>
@@ -526,34 +555,6 @@ if(!-e$request_filename){ rewrite^(.*)$/index.php?s=$1last;break; } }
     
     
       <category term="月圆之夜" scheme="https://freecn8.cn/tags/%E6%9C%88%E5%9C%86%E4%B9%8B%E5%A4%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>全新Photoshop2020v21.2.1茶末余香增强版，内置教学方法，极其强烈推荐！</title>
-    <link href="https://freecn8.cn/p/bcacdfdc.html"/>
-    <id>https://freecn8.cn/p/bcacdfdc.html</id>
-    <published>2020-08-03T08:00:00.000Z</published>
-    <updated>2020-08-03T09:18:41.237Z</updated>
-    
-    <content type="html"><![CDATA[<p>此版特点byTEAmo去联网认证，未作其他精减，全部功能仅提高资源整合打包封装。</p><p>整合插件：</p><p>├—Alien Skin 系列滤镜</p><p>├—Athentech Imaging Perfectly Clear Complete 3.10.0.1804 滤镜（中文版）</p><p>├—Athentech Imaging Perfectly Clear Complete 3.10.0.1793 滤镜（中文版）</p><p>├—Imagenomic Noiseware 5.1.2.5126 滤镜（中文版）</p><p>├—Imagenomic Portraiture 3.5.4.3540 滤镜（中文版）</p><p>├—Imagenomic Realgrain 2.1.2.2120 滤镜（中文版）</p><p>├—Camera Raw 11.4 滤镜</p><p>├—Flaming Pear 系列滤镜</p><p>├—Frischluft 系列滤镜</p><p>├—Neat Image 7.6 降噪滤镜</p><p>├—Imagenomic 系列滤镜</p><p>├—Redfield 系列滤镜</p><p>├—Richard Rosenman 系列滤镜</p><p>├—Topaz Labs 系列滤镜</p><p>├—Tint 滤镜</p><p>├—Vertus Fluid Mask 3.3.18 抠图滤镜</p><p>├—GreycShop GREYCstoration 手绘滤镜</p><p>├—Knoll Light Factory 3.2 光效滤镜</p><p>├—Nik Collection Software 系列滤镜</p><p>├—Google 谷歌系列滤镜套装</p><p>├—Portraiture 3 3.5.3.3532 磨皮滤镜</p><p>├—ACR预设(日系、人像、影楼、建筑、风景等)</p><p>加入扩展：</p><p>├—Beauty Retouch 3 人像D&amp;B/中性灰磨皮</p><p>├—Beauty Retouching Kit 影楼皮肤美白磨皮润色降噪</p><p>├—Blendit 终极修图辅助面板</p><p>├—Coolorus 2.6 色环面板</p><p>├—Colors of the Year 年度颜色面板</p><p>├—Creative Retouch 光效叠加合成面板</p><p>├—Delicious Retouch Plus 3 增强版</p><p>├—Double USM2 USM双锐化</p><p>├—Easy Panel 一键亮度遮罩控制面板</p><p>├—Easy Retouch 写真面部调色特效</p><p>├—fonTags 1.3 字体管理器</p><p>├—GuideGuide 参考辅助线面板</p><p>├—ILM 2.1 亮度饱和度蒙版</p><p>├—InstaMask 1.0 全新蒙板生成器</p><p>├—Lumenzia – Luminosity Masking Panel 区域色彩控制</p><p>├—Lumenzia 2.0.8 区域色彩控制</p><p>├—Long Shadow Generator 长阴影生成面板</p><p>├—Magic Retouch Pro 4.0 美白磨皮润色专业版</p><p>├—Overlays Manager Pro 视觉特效叠层纹理管理</p><p>├—Photobacks Cartoon 1.0.5 卡通漫画效</p><p>├—PixelJuggler 人像D&amp;B/中性灰磨皮辅助</p><p>├—Raya Pro 2.0 终极数字混合工作流程</p><p>├—Retouch of Color 颜色修整面板</p><p>├—Retouch Skin 高端商业磨皮美肤</p><p>├—Retouch Tools 终极修图辅助工具</p><p>├—Retouching Panel 高端精修调色风格面板</p><p>├—SMP Pro Workflow 人像精修扩展面版</p><p>├—StarsTail 2017.1 半岛雪人星轨堆栈插件</p><p>├—SuperDetails 超级细节增强</p><p>├—SuperHDR 超级HDR效果</p><p>├—tk_infinity_mask_panel TK辅助面板</p><p>├—TK4V2 亮度蒙版风光利器</p><p>├—TK V5 亮度蒙版风光利器</p><p>├—VSCOcam 扩展面板</p><p>├—Ultimate Retouch 2.0 终极修图</p><p>├—Ultimate Retouch 3.5 终极修图</p><p>├—YYActions 1.0 新疆YY星轨堆栈亮度蒙版</p><p>├—简易抠图</p><p>├—美颜润肤 1.3 标准版</p><p>├—美颜润肤（加强版）</p><p>├—BBTools RainFX 下雨特效扩展面板</p><p>├—ImageMotion 1.3 静态图片局部动画特效扩展面板</p><p>├—Ultimate Retouch 3.8.10 人像精修磨皮扩展面板</p><p>其它增强：</p><p>├—精选多款字体、支持ICO&amp;CUR格式、WebP格式，支持切换多语言界面；</p><p>├—想要窗口 Dveice Preview 功能需要另外安装Adobe Preview CC安卓版；</p><p>├—解除扩展库限制，可以自由安装使用第三方插件库；</p><p>├—Required\CEP\CEPHtmlEngine 已解除系统限制；</p><p>├—Required\CEP\extensions 在此添加扩展库即可。<br><img src="https://s1.ax1x.com/2020/08/03/aaC0Q1.png"><br><img src="https://s1.ax1x.com/2020/08/03/aaidDx.md.png"></p><p><a href="https://590m.com/file/1067823-455996175" target="_blank" rel="noopener external nofollow noreferrer">立即下载</a></p>]]></content>
-    
-    <summary type="html">
-    
-      此版特点byTEAmo去联网认证，未作其他精减，全部功能仅提高资源整合打包封装。 整合插件： ├—Alien Skin 系列滤镜 ├—Athentech
-Imaging Perfectly Clear Complete 3.10.0.1804 滤镜（中文版） ├—Athentech Imaging
-Perfectly Clear Complete 3.10.0.1793 滤镜（中文版） ├—Imagenomic Noiseware 5.1.2.5126
-滤镜（中文版） ├—Imagenomic Portraiture 3.5.4.3540 滤镜（中文版） ├—Imagenomic
-    
-    </summary>
-    
-    
-      <category term="Windows" scheme="https://freecn8.cn/categories/Windows/"/>
-    
-    
-      <category term="photoshop破解版" scheme="https://freecn8.cn/tags/photoshop%E7%A0%B4%E8%A7%A3%E7%89%88/"/>
-    
-      <category term="photoshop 下载" scheme="https://freecn8.cn/tags/photoshop-%E4%B8%8B%E8%BD%BD/"/>
     
   </entry>
   
