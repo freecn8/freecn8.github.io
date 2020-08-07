@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://freecn8.cn/tags/index.html</loc>
+    <loc>https://freecn8.cn/categories/index.html</loc>
     
     <lastmod>2020-08-07</lastmod>
     
   </url>
   
   <url>
-    <loc>https://freecn8.cn/categories/index.html</loc>
+    <loc>https://freecn8.cn/tags/index.html</loc>
     
     <lastmod>2020-08-07</lastmod>
     
@@ -221,13 +221,6 @@
 
   
   <url>
-    <loc>https://freecn8.cn/tags/execl/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://freecn8.cn/tags/%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
@@ -236,6 +229,13 @@
   
   <url>
     <loc>https://freecn8.cn/tags/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/execl/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -615,14 +615,14 @@
 
   
   <url>
-    <loc>https://freecn8.cn/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
+    <loc>https://freecn8.cn/categories/%E6%95%99%E7%A8%8B%E7%A6%8F%E5%88%A9/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://freecn8.cn/categories/%E6%95%99%E7%A8%8B%E7%A6%8F%E5%88%A9/</loc>
+    <loc>https://freecn8.cn/categories/%E7%BB%8F%E9%AA%8C%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
