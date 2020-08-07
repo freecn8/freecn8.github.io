@@ -228,6 +228,13 @@
   </url>
   
   <url>
+    <loc>https://freecn8.cn/tags/execl/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://freecn8.cn/tags/%E5%BE%AE%E4%BF%A1%E7%BA%A2%E5%8C%85/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
@@ -249,6 +256,48 @@
   </url>
   
   <url>
+    <loc>https://freecn8.cn/tags/%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/php%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%85%8D%E8%B4%B9%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%95%86%E4%B8%9A%E6%BA%90%E7%A0%81/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E4%BF%AE%E5%A4%8D%E5%9B%BE%E7%89%87/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://freecn8.cn/tags/%E7%BA%BF%E6%8A%A5%E5%B1%8B/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
@@ -263,7 +312,7 @@
   </url>
   
   <url>
-    <loc>https://freecn8.cn/tags/execl/</loc>
+    <loc>https://freecn8.cn/tags/%E4%B8%83%E7%8C%AB%E5%85%8D%E8%B4%B9%E9%98%85%E8%AF%BB%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -312,49 +361,7 @@
   </url>
   
   <url>
-    <loc>https://freecn8.cn/tags/%E4%BF%AE%E5%A4%8D%E5%9B%BE%E7%89%87/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E7%BD%91%E7%AB%99%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/php%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E6%BA%90%E7%A0%81%E4%B8%8B%E8%BD%BD/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E5%85%8D%E8%B4%B9%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E5%95%86%E4%B8%9A%E6%BA%90%E7%A0%81/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E4%B8%83%E7%8C%AB%E5%85%8D%E8%B4%B9%E9%98%85%E8%AF%BB%E5%B0%8F%E8%AF%B4%E4%B8%8B%E8%BD%BD/</loc>
+    <loc>https://freecn8.cn/tags/%E4%BD%9B%E5%AD%A6%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -369,41 +376,6 @@
   
   <url>
     <loc>https://freecn8.cn/tags/github-%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E4%BD%9B%E5%AD%A6%E5%85%A5%E9%97%A8/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E4%B8%AA%E4%BA%BA%E6%8A%95%E8%B5%84/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E4%B8%AA%E4%BA%BA%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2%E7%9F%A5%E8%AF%86/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E4%B8%AA%E4%BA%BA%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2%E5%85%A5%E9%97%A8/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -452,7 +424,28 @@
   </url>
   
   <url>
-    <loc>https://freecn8.cn/tags/%E6%9C%88%E5%9C%86%E4%B9%8B%E5%A4%9C/</loc>
+    <loc>https://freecn8.cn/tags/%E4%B8%AA%E4%BA%BA%E6%8A%95%E8%B5%84/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E4%B8%AA%E4%BA%BA%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2%E7%9F%A5%E8%AF%86/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E4%B8%AA%E4%BA%BA%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%B0%91%E5%84%BF%E8%8B%B1%E8%AF%AD%E5%8A%A8%E7%94%BB%E7%89%87/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -466,14 +459,7 @@
   </url>
   
   <url>
-    <loc>https://freecn8.cn/tags/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E5%84%BF%E7%AB%A5%E8%8B%B1%E6%96%87%E6%AD%8C%E6%9B%B2/</loc>
+    <loc>https://freecn8.cn/tags/%E6%9C%88%E5%9C%86%E4%B9%8B%E5%A4%9C/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -508,7 +494,42 @@
   </url>
   
   <url>
-    <loc>https://freecn8.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/</loc>
+    <loc>https://freecn8.cn/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%982t/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%BE%AE%E4%BF%A1-%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%85%8D%E8%B4%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%BE%AE%E4%BF%A1/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2020-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%84%BF%E7%AB%A5%E8%8B%B1%E6%96%87%E6%AD%8C%E6%9B%B2/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -536,28 +557,7 @@
   </url>
   
   <url>
-    <loc>https://freecn8.cn/tags/%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%982t/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E5%BE%AE%E4%BF%A1-%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E5%85%8D%E8%B4%B9%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-    <lastmod>2020-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://freecn8.cn/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F-%E5%BE%AE%E4%BF%A1/</loc>
+    <loc>https://freecn8.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98/</loc>
     <lastmod>2020-08-07</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
