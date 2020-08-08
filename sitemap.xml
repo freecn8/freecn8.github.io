@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://freecn8.cn/p/b2dcd9d4.html</loc>
+    
+    <lastmod>2020-08-08</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/p/6e68bd46.html</loc>
+    
+    <lastmod>2020-08-08</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://freecn8.cn/p/728a6347.html</loc>
     
     <lastmod>2020-08-08</lastmod>
@@ -677,6 +691,27 @@
   
   <url>
     <loc>https://freecn8.cn/tags/%E7%A7%BB%E5%8A%A8%E6%B5%81%E9%87%8F%E5%8C%85/</loc>
+    <lastmod>2020-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/python-%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/Python%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2020-08-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://freecn8.cn/tags/%E5%86%9C%E8%A1%8C%E6%B4%BB%E5%8A%A8/</loc>
     <lastmod>2020-08-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
