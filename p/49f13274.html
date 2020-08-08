@@ -525,7 +525,7 @@
 
 <script>
 NexT.utils.loadComments(document.querySelector('#valine-comments'), () => {
-  NexT.utils.getScript('//github.com/DesertsP/Valine/releases/download/v1.2.0/Valine.min.js', () => {
+  NexT.utils.getScript('../js/src/Valine.min.js', () => {
     var GUEST = ['nick', 'mail', 'link'];
     var guest = 'nick,mail,link';
     guest = guest.split(',').filter(item => {
